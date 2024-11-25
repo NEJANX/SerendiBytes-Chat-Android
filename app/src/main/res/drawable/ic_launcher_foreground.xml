@@ -1,0 +1,7 @@
+<ImageView
+    android:contentDescription="something"
+    android:id="@+id/imageView"
+    android:layout_height="108dp"
+    android:layout_width="108dp"
+    android:src="@drawable/logo"
+    xmlns:android="http://schemas.android.com/apk/res/android" />

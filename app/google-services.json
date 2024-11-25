@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795298738368",
+    "project_id": "serendibytes-chat",
+    "storage_bucket": "serendibytes-chat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795298738368:android:4bb45a0952fb3797683d25",
+        "android_client_info": {
+          "package_name": "com.serendibytes.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAqbGt0TWHhwPHz4jH730WLGs-Qev2URc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
